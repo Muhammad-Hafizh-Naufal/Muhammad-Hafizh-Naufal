@@ -8,7 +8,7 @@
 * 🖥️  See my portfolio at [Linkedin](https://www.linkedin.com/in/muhammad-hafizh-naufal-3926162b5/)
 
 <a href="https://www.github.com/Muhammad-Hafizh-Naufal" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Muhammad-Hafizh-Naufal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/Muhammad-Hafizh-Naufal?logo=github&style=for-the-badge&color=facc15&labelColor=581c87" /></a>
 
 🍵Me, Coffee & VsCode
 Passionate about Technology
@@ -38,12 +38,12 @@ Passionate about Technology
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 10px;">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hafizh-Naufal&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Muhammad-Hafizh-Naufal's GitHub stats" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hafizh-Naufal&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true"  alt="Muhammad-Hafizh-Naufal's GitHub stats" height="200" />
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hafizh-Naufal&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" height="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hafizh-Naufal&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" height="200" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Hafizh-Naufal&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="200" style="width: 100%;" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Hafizh-Naufal&stroke=ffffff&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" height="200" style="width: 100%;" />
 
 </div>
 
