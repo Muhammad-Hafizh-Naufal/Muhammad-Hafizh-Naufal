@@ -10,6 +10,9 @@
 <a href="https://www.github.com/Muhammad-Hafizh-Naufal" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Muhammad-Hafizh-Naufal?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+🍵Me, Coffee & VsCode
+Passionate about Technology
+
 ### Skills
 
 <p align="center">
