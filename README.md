@@ -56,11 +56,6 @@ const hafizh = {
   <img src="https://streak-stats.demolab.com/?user=Muhammad-Hafizh-Naufal&theme=tokyonight&hide_border=true&border_radius=12" alt="streak" />
 </div>
 
-<!-- ═══════════════ TROPHIES ═══════════════ -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Hafizh-Naufal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=7" alt="trophies" />
-</div>
-
 <!-- ═══════════════ ACTIVITY ═══════════════ -->
 ## 📈 Contribution Activity
 
